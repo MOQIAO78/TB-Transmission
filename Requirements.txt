@@ -1,0 +1,5 @@
+pandas
+matplotlib
+asyncio
+partial
+shiny
